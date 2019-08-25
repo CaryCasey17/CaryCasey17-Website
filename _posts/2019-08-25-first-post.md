@@ -1,9 +1,9 @@
 ---
 layout: post
 title: First post!
-image: /img/hello_world.jpeg
+image: /img/earth-1200x350-c-default.jpg
 ---
 
-Hello World!
+Hello World! "Literally"
 Best,
 Cary Casey
